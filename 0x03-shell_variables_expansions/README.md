@@ -1,1 +1,1 @@
-non empty
+4-Create a script that lists environment variables.
